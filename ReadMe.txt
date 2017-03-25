@@ -1,0 +1,1 @@
+This file is being used as a test in Git
